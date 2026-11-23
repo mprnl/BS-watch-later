@@ -14,7 +14,7 @@ dépôt git sans modification du noyau.
 | --- | --- |
 | `id` | `watch-later` |
 | `apiVersion` | `1` |
-| `version` | `1.0.0` |
+| `version` | `1.0.1` |
 | `capabilities` | `filesystem: "module-data"` |
 | Outil | `watch-later.add` (effet `write`) |
 | Actions | `load`, `create`, `summarize`, `edit`, `remove`, `reorder` |

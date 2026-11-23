@@ -1,6 +1,6 @@
 {
   "name": "backstage-module-watch-later",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "type": "module",
   "description": "Module externe BACKSTAGE : liste de liens à voir plus tard.",
